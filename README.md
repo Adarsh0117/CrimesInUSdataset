@@ -45,4 +45,4 @@ CONTRIBUTING
 
 I welcome contributions from the community! If you have any suggestions, bug fixes, or improvements, please feel free to open an issue or submit a pull request.
 
-I would be happy if anyone looking at this keeps in mind that this is one of my first data analysing projects which I just did cause I just really like various datasets and just like to find new information from the existing data so dont mind if there are any rookie and simple mistakes 
+I would be happy if anyone looking at this keeps in mind that this is one of my first data analysing projects which I just did cause I just really like various datasets and just like to mess around with data so dont mind if there are any rookie and simple mistakes.
